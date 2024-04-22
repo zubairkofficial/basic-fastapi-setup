@@ -1,0 +1,11 @@
+{
+    "id":6,
+    "name":"Record 1",
+    "description":"lorem ipsum",
+    "image":"image.jpg",
+    "category_id":4,
+    "category": {
+        "id": 4,
+        "name": "Sports"
+    }
+}
